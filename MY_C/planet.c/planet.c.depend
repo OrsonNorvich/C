@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479653760 source:d:\my_c\planet.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

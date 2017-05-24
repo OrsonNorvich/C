@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478446463 source:d:\my_c\sort_number.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

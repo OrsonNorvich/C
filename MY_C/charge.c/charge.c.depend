@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481343371 source:d:\my_c\charge.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
